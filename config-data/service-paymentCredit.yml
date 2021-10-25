@@ -1,0 +1,9 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: service-paymentCredit
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin2000@clusterbanca.zdoxm.mongodb.net/test
+      database: banca
