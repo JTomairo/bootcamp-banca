@@ -5,4 +5,5 @@ spring:
         name: service-client
     data:
         mongodb:
-            uri:  mongodb+srv://admin:admin2000@clusterbanca.zdoxm.mongodb.net/test
+            uri: mongodb+srv://admin:admin2000@clusterbanca.zdoxm.mongodb.net/test
+            database: banca
