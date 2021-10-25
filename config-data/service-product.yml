@@ -1,0 +1,9 @@
+server:
+    port: 8083
+spring:
+    application:
+        name: service-product
+    data:
+        mongodb:
+            uri: mongodb+srv://admin:admin2000@clusterbanca.zdoxm.mongodb.net/test
+            database: banca
