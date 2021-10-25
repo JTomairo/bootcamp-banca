@@ -2,7 +2,7 @@ server:
     port: 8081
 spring:
     application:
-        name: service-customer
+        name: service-client
     data:
         mongodb:
             uri:  mongodb+srv://admin:admin2000@clusterbanca.zdoxm.mongodb.net/test
